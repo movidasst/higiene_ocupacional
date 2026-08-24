@@ -1,0 +1,18 @@
+{
+  "name": "Higiene Ocupacional · La Movida SST",
+  "short_name": "Higiene SST",
+  "description": "Guía interactiva de higiene ocupacional y normas COVENIN.",
+  "lang": "es-VE",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#00205b",
+  "icons": [
+    {
+      "src": "/logo-movida-sst-plus.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
