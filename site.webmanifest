@@ -9,9 +9,9 @@
   "theme_color": "#00205b",
   "icons": [
     {
-      "src": "/logo-movida-sst-plus.svg",
+      "src": "/logo-movida-sst-plus.png",
       "sizes": "any",
-      "type": "image/svg+xml",
+      "type": "image/png",
       "purpose": "any"
     }
   ]
